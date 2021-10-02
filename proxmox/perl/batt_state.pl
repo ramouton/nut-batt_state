@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+## Written by Raymond A. Mouton 2021
+## GitHub: https://github.com/ramouton/nut-batt_state
+
 use strict;
 use warnings;
 
